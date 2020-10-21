@@ -1,0 +1,680 @@
+# Blender MTL File: 'None'
+# Material Count: 63
+
+newmtl Material.001
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.375749 0.283621 0.283621
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.375749 0.283621 0.283621
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.003
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.399597 0.496922 0.496922
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.436590 0.353343 0.447978
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.006
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.003945 0.004959
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.007
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.059382 0.064094
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.008
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.149706 0.258038 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.009
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.219065 0.153723 0.086759
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.021
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.201457 0.165825
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.036
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.538224 0.192724 0.192724
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.041
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd materials/textura_grelha.jpg
+
+newmtl Material.041_IMG_0408.jpg.004
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\IMG_0408.jpg
+
+newmtl Material.041_IMG_0408.jpg.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\IMG_0408.jpg
+
+newmtl Material.041_IMG_0408.jpg.006
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\IMG_0408.jpg
+
+newmtl Material.041_IMG_0408.jpg.007
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\IMG_0408.jpg
+
+newmtl Material.041_IMG_0413.jpg.004
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\IMG_0413.jpg
+
+newmtl Material.041_IMG_0413.jpg.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\IMG_0413.jpg
+
+newmtl Material.041_IMG_0413.jpg.006
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\IMG_0413.jpg
+
+newmtl Material.041_IMG_0413.jpg.007
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\IMG_0413.jpg
+
+newmtl Material.041_NONE
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.041_Picture_001.jpg.004
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\Picture_001.jpg
+
+newmtl Material.041_Picture_001.jpg.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\Picture_001.jpg
+
+newmtl Material.041_Picture_001.jpg.006
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\Picture_001.jpg
+
+newmtl Material.041_Picture_001.jpg.007
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\Picture_001.jpg
+
+newmtl Material.041_Picture_009.jpg.004
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\Picture_009.jpg
+
+newmtl Material.041_Picture_009.jpg.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\Picture_009.jpg
+
+newmtl Material.041_Picture_009.jpg.006
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\Picture_009.jpg
+
+newmtl Material.041_Picture_009.jpg.007
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\Picture_009.jpg
+
+newmtl Material.041_metal_escovado.jpg.004
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\metal_escovado.jpg
+
+newmtl Material.041_metal_escovado.jpg.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\metal_escovado.jpg
+
+newmtl Material.041_metal_escovado.jpg.006
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\metal_escovado.jpg
+
+newmtl Material.041_metal_escovado.jpg.007
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\metal_escovado.jpg
+
+newmtl Material.041_textura_grelha.jpg.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_grelha.jpg
+
+newmtl Material.041_textura_grelha.jpg.006
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_grelha.jpg
+
+newmtl Material.041_textura_grelha.jpg.007
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_grelha.jpg
+
+newmtl Material.041_textura_lateral.jpg.004
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_lateral.jpg
+
+newmtl Material.041_textura_lateral.jpg.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_lateral.jpg
+
+newmtl Material.041_textura_lateral.jpg.006
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_lateral.jpg
+
+newmtl Material.041_textura_lateral.jpg.007
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_lateral.jpg
+
+newmtl Material.041_textura_superior.jpg.004
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_superior.jpg
+
+newmtl Material.041_textura_superior.jpg.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_superior.jpg
+
+newmtl Material.041_textura_superior.jpg.006
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_superior.jpg
+
+newmtl Material.041_textura_superior.jpg.007
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.601047 0.078738
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_superior.jpg
+
+newmtl Material.042
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.261100 0.261100 0.261100
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.043
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.202354 0.202354 0.202354
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.044
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.389517 0.389517 0.389517
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_grelha.jpg
+
+newmtl Material.044_textura_grelha.jpg.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.389517 0.389517 0.389517
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_grelha.jpg
+
+newmtl Material.044_textura_grelha.jpg.006
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.389517 0.389517 0.389517
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_grelha.jpg
+
+newmtl Material.044_textura_grelha.jpg.007
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.389517 0.389517 0.389517
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\textura_grelha.jpg
+
+newmtl Material.045
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.598720 0.598720 0.598720
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\IMG_0413.jpg
+
+newmtl Material.045_IMG_0413.jpg.004
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.598720 0.598720 0.598720
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\IMG_0413.jpg
+
+newmtl Material.045_IMG_0413.jpg.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.598720 0.598720 0.598720
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\IMG_0413.jpg
+
+newmtl Material.045_IMG_0413.jpg.007
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.598720 0.598720 0.598720
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\IMG_0413.jpg
+
+newmtl Material.045_Picture_009.jpg.004
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.598720 0.598720 0.598720
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\Picture_009.jpg
+
+newmtl Material.045_Picture_009.jpg.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.598720 0.598720 0.598720
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\Picture_009.jpg
+
+newmtl Material.045_Picture_009.jpg.006
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.598720 0.598720 0.598720
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\Picture_009.jpg
+
+newmtl Material.045_Picture_009.jpg.007
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.598720 0.598720 0.598720
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\Picture_009.jpg
+
+newmtl Material.046
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.548765 0.548765 0.548765
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.047
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.501329 0.501329 0.501329
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\metal_escovado.jpg
+
+newmtl Material.047_metal_escovado.jpg.004
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.501329 0.501329 0.501329
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\metal_escovado.jpg
+
+newmtl Material.047_metal_escovado.jpg.005
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.501329 0.501329 0.501329
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\metal_escovado.jpg
+
+newmtl Material.047_metal_escovado.jpg.006
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.501329 0.501329 0.501329
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Projects\vessels(1)\vessels\generalCargoVessel\textures\metal_escovado.jpg
+
+newmtl wire_162162162
+Ns 29.411765
+Ka 0.635300 0.635300 0.635300
+Kd 0.384374 0.351214 0.351214
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
