@@ -1,6 +1,7 @@
 import * as THREE from "https://cdn.jsdelivr.net/npm/three@0.114/build/three.module.js";
 import { OrbitControls } from "https://cdn.jsdelivr.net/npm/three@0.114/examples/jsm/controls/OrbitControls.js";
 import { DragControls } from "https://cdn.jsdelivr.net/npm/three@0.114/examples/jsm/controls/DragControls.js";
+import { TransformControls } from "https://cdn.jsdelivr.net/npm/three@0.114.0/examples/jsm/controls/TransformControls.js";
 import { MTLLoader } from 'https://cdn.jsdelivr.net/npm/three@0.114.0/examples/jsm/loaders/MTLLoader.js';
 import { OBJLoader } from 'https://cdn.jsdelivr.net/npm/three@0.114.0/examples/jsm/loaders/OBJLoader.js';
 
@@ -11,11 +12,12 @@ let scene, camera, renderer,
     groundMesh, 
     groupContainer,
     shipMesh, containerMesh,
-    orbitControls,dragControls,
+    orbitControls,dragControls, transformControls,
     container,
     directionalLight;
 
 let objects = [];
+let a = [];
 
 async function init() {
     scene = new THREE.Scene();
@@ -42,7 +44,7 @@ async function init() {
     // createPlaneMesh(scene);
     creatSeaMesh(scene);
     creatGroundMesh(scene);
-    // createCubeMesh(scene);
+    createCubeMesh(scene);
     await createShipMesh(scene);
 
     groupContainer = new THREE.Group();
@@ -66,6 +68,7 @@ async function init() {
             containerObj.position.z = -370 + i*12 ;
         }
         groupContainer.add(containerObj);
+        a.push(containerObj);
     }
 
     scene.add(groupContainer);
@@ -81,14 +84,38 @@ async function init() {
     objects.push(groupContainer);
     dragControls = new DragControls( [ ...objects ], camera, renderer.domElement );
     dragControls.addEventListener( 'dragstart', function () { 
-        orbitControls.enabled = false; 
-        console.log('dragstart');
-    } );
+        orbitControls.enabled = false;
+    });
     dragControls.addEventListener( 'dragend', function () {
-         orbitControls.enabled = true; 
-        console.log('dragend');
-        } );
+         orbitControls.enabled = true;
+    });
 
+    // Transform control
+    transformControls = new TransformControls( camera, renderer.domElement );
+    transformControls.attach(cubeMesh);
+    transformControls.setMode('rotate');
+    scene.add(transformControls);
+
+    transformControls.addEventListener('dragging-changed', function (event) {
+        orbitControls.enabled = !event.value;
+        dragControls.enabled = !event.value;
+    })
+
+    window.addEventListener('keydown', function (event) {
+        switch(event.key) {
+            case 'g':
+                transformControls.setMode('translate');
+                break;
+            case 'r':
+                transformControls.setMode('rotate');
+                break;
+            case 's':
+                transformControls.setMode('scale');
+                break;
+            default: break;
+        }
+    })
+    
     // End add control
 
     // Set camera position to view object
